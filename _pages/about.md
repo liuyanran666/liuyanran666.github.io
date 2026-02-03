@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hey all! I am Yanran Liu, a PhD student at the Department of Biomedical Sciences, City University of Hong Kong (CityU). If you are seeking any form of academic cooperation, please feel free to email me at [yanranliu7-c@my.cityu.edu.hk](mailto:yanranliu7-c@my.cityu.edu.hk).
+Hey all! I am Yanran Liu, a PhD student at the Department of Biomedical Sciences, City University of Hong Kong (CityU HK). If you are seeking any form of academic cooperation, please feel free to email me at [yanranliu7-c@my.cityu.edu.hk](mailto:yanranliu7-c@my.cityu.edu.hk).
 
 - 🎓 I will be joining the [CompBioClub](https://compbioclub.github.io/) in September 2026, under the supervision of [Prof. Lingxi CHEN (陈凌曦)](https://www.cityu.edu.hk/bms/profile/lingxichen.htm).
 
