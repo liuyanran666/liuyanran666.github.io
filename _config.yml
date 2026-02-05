@@ -13,6 +13,7 @@ description              :
 repository               : "liuyanran666/yanranliu.github.io"
 baseurl                  : ""
 url                      : "https://liuyanran666.github.io"
+favicon                  : "images/favicon.ico"
 google_scholar_stats_use_cdn : true
 
 # ==============================================================================
