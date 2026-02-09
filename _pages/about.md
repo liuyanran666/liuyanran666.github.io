@@ -69,7 +69,7 @@ Predicting Gene Regulatory Relationship in Cancer Using LLM and Graph Neural Net
 Two-Stage Hybrid Model for Influenza Trend Forecasting and Key Driver Analysis
 
 **Yanran Liu**, Jingxia Guo, Xubin Zheng, et al.
-ß
+
 **BMC Public Health(JCR Q1 Journal)**
 
 - Analyzed 2011-2023 influenza data in Xinjiang with demographic and virological drivers across pre/post-COVID periods.
