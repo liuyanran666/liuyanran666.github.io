@@ -34,11 +34,12 @@ My research interests mainly include AI for Biomedical Science and Bioinformatic
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉 Our work on influenza prediction has been accepted by **BMC Public Health**!
+- *2026.02*: &nbsp;🎉 Our work on influenza prediction has been published in **BMC Public Health**!
 - *2025.11*: &nbsp;🚀 Huge news! Our spatial multi-omics model, GROVER, has been accepted by **AAAI 2026**!
-- *2025.10*: &nbsp;🎊 Triple win at **BIBM 2025**! Our gene regulatory relationship prediction model has been accepted.
-- *2025.10*: &nbsp;🚀 Thrilled to announce that our work BioLinkGPT is headed to **BIBM 2025**!
-- *2025.10*: &nbsp;✨ Another win! Our project SVP has also been accepted by **BIBM 2025**.
+- *2025.10*: &nbsp;🎊 Triple win at **BIBM 2025**! Thrilled to announce that our work BioLinkGPT is headed to **BIBM 2025**!
+- *2025.10*: &nbsp;✨ Our project SVP has also been accepted by **BIBM 2025**!
+- *2025.10*: &nbsp;� Another win! Our gene regulatory relationship prediction model has been accepted by **BIBM 2025**.
+- *2025.10*: &nbsp;🎓🥳 Celebrated my **Master's graduation at CityU HK**! A wonderful journey comes to an end!
 - *2024.12*: &nbsp;🎉 Our first spatial multi-omics model, PRAGA, was accepted by **AAAI 2025**!
 - *2024.12*: &nbsp;✨ Back to the research frontline at **GBU**!
 - *2024.09*: &nbsp;🎓 A new chapter begins! Officially started my **Master's journey at CityU HK**.
@@ -68,8 +69,8 @@ Predicting Gene Regulatory Relationship in Cancer Using LLM and Graph Neural Net
 Two-Stage Hybrid Model for Influenza Trend Forecasting and Key Driver Analysis
 
 **Yanran Liu**, Jingxia Guo, Xubin Zheng, et al.
-
-**BMC Public Health(JCR Q1 Journal)** (Accepted)
+ß
+**BMC Public Health(JCR Q1 Journal)**
 
 - Analyzed 2011-2023 influenza data in Xinjiang with demographic and virological drivers across pre/post-COVID periods.
 - Developed LSTM-GBR hybrid model integrating key drivers via systematic feature engineering.
