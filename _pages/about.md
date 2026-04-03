@@ -19,11 +19,11 @@ redirect_from:
 
 Hello! I am Yanran Liu. If you are interested in academic collaboration, please feel free to contact me at [yanranliu7-c@my.cityu.edu.hk](mailto:yanranliu7-c@my.cityu.edu.hk).
 
-- 🎓 I will join the Department of Biomedical Sciences at [City University of Hong Kong (香港城市大学)](https://www.cityu.edu.hk/) as a PhD student in September 2026, and will be a member of the [CompBioClub](https://compbioclub.github.io/) under the supervision of [Prof. Lingxi CHEN (陈凌曦)](https://www.cityu.edu.hk/bms/profile/lingxichen.htm).
+- 🎓 I will join the Department of Biomedical Sciences at [City University of Hong Kong (香港城市大学)](https://www.cityu.edu.hk/) as a PhD student in September 2026 under the supervision of [Prof. Lingxi CHEN (陈凌曦)](https://www.cityu.edu.hk/bms/profile/lingxichen.htm). I will be a member of the [CompBioClub](https://compbioclub.github.io/), where I am currently working as a Research Assistant.
 
-- 🔬 Currently, I am a Visiting Student Researcher at the School of Information Science and Technology, Great Bay University, supervised by [Prof. Xubin ZHENG (郑旭彬)](https://kimxbzheng.github.io/).
+- 🔬 From April 2024 to April 2026, I was a Visiting Student Researcher at the School of Information Science and Technology, Great Bay University, supervised by [Prof. Xubin ZHENG (郑旭彬)](https://kimxbzheng.github.io/).
 
-- 📚 I received my M.Sc. in Information Systems from City University of Hong Kong and my B.Eng. in Financial Engineering from Dalian Maritime University.
+- 📚 I received my M.Sc. in Information Systems from City University of Hong Kong in October 2025 and my B.Eng. in Financial Engineering from Dalian Maritime University in June 2023.
 
 # 🔍 Research Interests
 
@@ -34,6 +34,8 @@ My research interests mainly include AI for Biomedical Science and Bioinformatic
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉 Joining **City University of Hong Kong (CityU HK)** as a **Research Assistant** in the **CompBioClub** under **Prof. Lingxi CHEN**. Another beautiful chapter of my research journey begins here!
+- *2026.04*: &nbsp;🌟 Concluding a rewarding research journey at **Great Bay University (GBU)** under **Prof. Xubin ZHENG**, with deep gratitude for the mentorship and collaborations along the way.
 - *2026.02*: &nbsp;🎉 Our work on influenza prediction has been published in **BMC Public Health**!
 - *2025.11*: &nbsp;🚀 Huge news! Our spatial multi-omics model, GROVER, has been accepted by **AAAI 2026**!
 - *2025.10*: &nbsp;🎊 Triple win at **BIBM 2025**! Thrilled to announce that our work BioLinkGPT is headed to **BIBM 2025**!
