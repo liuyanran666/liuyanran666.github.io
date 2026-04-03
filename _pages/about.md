@@ -34,7 +34,7 @@ My research interests mainly include AI for Biomedical Science and Bioinformatic
 
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉 Joining **City University of Hong Kong (CityU HK)** as a **Research Assistant** in the **CompBioClub** under **Prof. Lingxi CHEN**. Another beautiful chapter of my research journey begins here!
+- *2026.04*: &nbsp;🎉 Joining **City University of Hong Kong (CityU HK)** as a Research Assistant in the CompBioClub under **Prof. Lingxi CHEN**. Another beautiful chapter of my research journey begins here!
 - *2026.04*: &nbsp;🌟 Concluding a rewarding research journey at **Great Bay University (GBU)** under **Prof. Xubin ZHENG**, with deep gratitude for the mentorship and collaborations along the way.
 - *2026.02*: &nbsp;🎉 Our work on influenza prediction has been published in **BMC Public Health**!
 - *2025.11*: &nbsp;🚀 Huge news! Our spatial multi-omics model, GROVER, has been accepted by **AAAI 2026**!
