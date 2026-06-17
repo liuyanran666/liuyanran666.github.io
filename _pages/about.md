@@ -34,7 +34,7 @@ My research interests mainly include AI for Biomedical Science and Bioinformatic
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🚀 Huge congratulations! Our spatial transcriptomics super-resolution model, **SRast**, has been accepted by **KDD 2026**!
+- *2026.05*: &nbsp;🚀 Huge congratulations! Our spatial transcriptomics super-resolution model, **SRast**, has been accepted to **KDD 2026 Oral** (**<6.1%**)!
 - *2026.05*: &nbsp;🎓🎉 Delighted and grateful to have accepted a **PhD offer from City University of Hong Kong (CityU HK)** under **Prof. Lingxi CHEN**. Looking forward to beginning this new chapter in the CompBioClub!
 - *2026.04*: &nbsp;🎉 Joining **City University of Hong Kong (CityU HK)** in the CompBioClub under **Prof. Lingxi CHEN**. Another beautiful chapter of my research journey begins here!
 - *2026.04*: &nbsp;🌟 Concluding a rewarding research journey at **Great Bay University (GBU)** under **Prof. Xubin ZHENG**, with deep gratitude for the mentorship and collaborations along the way.
