@@ -19,7 +19,7 @@ redirect_from:
 
 Hello! I am Yanran Liu. If you are interested in academic collaboration, please feel free to contact me at [yanranliu7-c@my.cityu.edu.hk](mailto:yanranliu7-c@my.cityu.edu.hk).
 
-- 🎓 I will join the Department of Biomedical Sciences at [City University of Hong Kong (香港城市大学)](https://www.cityu.edu.hk/) as a PhD student in September 2026 under the supervision of [Prof. Lingxi CHEN (陈凌曦)](https://www.cityu.edu.hk/bms/profile/lingxichen.htm). I will be a member of the [CompBioClub](https://compbioclub.github.io/), where I am currently working as a Research Assistant.
+- 🎓 I am a PhD student in the Department of Biomedical Sciences at [City University of Hong Kong (香港城市大学)](https://www.cityu.edu.hk/), supervised by [Prof. Lingxi CHEN (陈凌曦)](https://www.cityu.edu.hk/bms/profile/lingxichen.htm). I am a member of the [CompBioClub](https://compbioclub.github.io/).
 
 - 🔬 From April 2024 to April 2026, I was a Visiting Student Researcher at the School of Information Science and Technology, Great Bay University, supervised by [Prof. Xubin ZHENG (郑旭彬)](https://kimxbzheng.github.io/).
 
